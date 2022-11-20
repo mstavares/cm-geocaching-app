@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Geocaching</string>
+    <string-array name="difficulties">
+        <item>Very easy</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Very hard</item>
+    </string-array>
+    <string name="description">Description</string>
+    <string name="error_blank_field">This field can not be blank</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="range_in_meters">Range in meters</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="best_android_book">Best android book</string>
+</resources>
